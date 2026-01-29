@@ -21,7 +21,6 @@ pokemon_voice/
 
 # 큰 파일들
 *.onnx
-*.xlsx
 
 # OS
 .DS_Store
